@@ -14,13 +14,6 @@
 - Micro-serviço de certificado devolve uma resposta assíncrona.
 - Receber uma resposta assíncrona de quando o e-mail com certificado foi enviado.
 
-## O que sabemos ?
-
-- REST (latência)
-- Redis / RabbitMQ / **Kafka**
-
-- Nubank, Uber, Paypal, Netflix
-
 ## Como executar ?
 
 Rodar o docker compose:
